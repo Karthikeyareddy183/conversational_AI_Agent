@@ -1,0 +1,6 @@
+python-dotenv
+livekit-agents
+livekit-plugins-groq
+livekit-plugins-elevenlabs
+livekit-plugins-noise-cancellation
+livekit-plugins-silero
